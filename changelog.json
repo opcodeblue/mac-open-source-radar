@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-11-03",
+    "project": "Gen1Recomp",
+    "project_id": "gen1recomp",
+    "type": "new_project",
+    "summary": "Tillagd på radarn: Pokémon återskapat i Lua/LÖVE2D med färdig macOS-utgåva. Egna ROM-filer krävs; launchern har separat proprietär licens.",
+    "sources": [
+      "https://github.com/bryanthaboi/gen1recomp",
+      "https://github.com/bryanthaboi/gen1recomp/releases/tag/v0.4.0",
+      "https://github.com/bryanthaboi/gen1recomp/blob/dev/LICENSE.MD"
+    ]
+  },
+  {
+    "date": "2026-11-03",
     "project": "nxnative",
     "project_id": "nxnative",
     "type": "new_project",
