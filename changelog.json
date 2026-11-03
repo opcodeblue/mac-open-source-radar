@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2026-11-03",
+    "project": "nxnative",
+    "project_id": "nxnative",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. README beskriver nu även Switch 2-spel på Mac; stöd och resultat är specifika för varje spelprofil.",
+    "sources": [
+      "https://github.com/seedds/nxnative"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "AppleBridge",
+    "project_id": "applebridge",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. Projektets README beskriver 35 MCP-verktyg och tester på både emulatorer och en fysisk SE/30.",
+    "sources": [
+      "https://github.com/LoetLuemmel/AppleBridge"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "Mole",
+    "project_id": "mole",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. README skiljer uttryckligen den öppna CLI-versionen från den separata Mac-appen.",
+    "sources": [
+      "https://github.com/tw93/Mole"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "FigCraft",
+    "project_id": "figcraft",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. README anger alpha, universal macOS-installation och en tidig förhandsversion av multiplayer.",
+    "sources": [
+      "https://github.com/storytold/figcraft"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "VectorCraft",
+    "project_id": "vectorcraft",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. README listar signerad och notariserad universal-app samt ett separat universal CLI för Mac.",
+    "sources": [
+      "https://github.com/storytold/vectorcraft"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "MacNativeGames",
+    "project_id": "macnativegames",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. README beskriver Mac, iPhone och iPad som målplattformar.",
+    "sources": [
+      "https://github.com/ly05010419/MacNativeGames"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "NX2Apple",
+    "project_id": "nx2apple",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. Repository verifierat som separat frontend till nxnative.",
+    "sources": [
+      "https://github.com/LNPANDY/NX2Apple"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "GoldenEye Metal",
+    "project_id": "goldeneye-metal",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. Nuvarande README beskriver spelbar kampanj och lokal split-screen, men fortsatt testning.",
+    "sources": [
+      "https://github.com/ysrdevs/goldeneye-metal"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "nvNova",
+    "project_id": "nvnova",
+    "type": "revival",
+    "summary": "Tillagd i den nya radarn. Kodbasen bygger åter på modern macOS. Nuvarande byggen är x86_64 och använder Rosetta på Apple Silicon.",
+    "sources": [
+      "https://github.com/ranvel/nvNova"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "MLX",
+    "project_id": "mlx",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. README länkar exempel för språkmodeller, bildgenerering och taligenkänning.",
+    "sources": [
+      "https://github.com/ml-explore/mlx"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "project": "Colima",
+    "project_id": "colima",
+    "type": "new_project",
+    "summary": "Tillagd i den nya radarn. README dokumenterar även GPU-accelererade AI-arbetslaster via krunkit på Apple Silicon.",
+    "sources": [
+      "https://github.com/abiosoft/colima"
+    ]
+  }
+]
